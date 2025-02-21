@@ -1,0 +1,10 @@
+{
+    "profile_name": "potato",
+    "system_prompt": "...",
+    "samplers": {
+        "temperature": 0.85,
+        "top_p": 0.75,
+        "top_k": 0,
+        "min_p": 0.05
+    }
+}

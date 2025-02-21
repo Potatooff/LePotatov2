@@ -1,0 +1,22 @@
+{
+    "default_choice": {
+        
+        "default_llm_api": {
+            "Host": "Mistral.AI",
+            "model": "mistral-small-latest",
+            "api_key": "kCOMF3x2kQP0kU2gkqTKUEmeXg5nZvE7",
+            "context_length": 1024,
+            "openai_compatible_url": "https://api.mistral.ai/v1"
+        }  
+    },
+
+    "LLMS_API_LIST": [
+        {
+            "Host": "Mistral.AI",
+            "model": "mistral-small-latest",
+            "api_key": "kCOMF3x2kQP0kU2gkqTKUEmeXg5nZvE7",
+            "context_length": 1024,
+            "openai_compatible_url": "https://api.mistral.ai/v1"
+        }
+    ]
+}
